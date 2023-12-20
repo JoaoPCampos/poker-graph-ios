@@ -1,0 +1,2459 @@
+[
+    {
+        "session": "2/8/2023 5:35:08 PM",
+        "hands": 1320,
+        "won": 5.12,
+        "ev": -1.87,
+        "wonSD": 12.59,
+        "wonNonSD": -7.47,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/9/2023 5:31:30 PM",
+        "hands": 1095,
+        "won": 4.84,
+        "ev": 3.37,
+        "wonSD": 20.84,
+        "wonNonSD": -16,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/10/2023 6:39:30 PM",
+        "hands": 572,
+        "won": -1.91,
+        "ev": 0.03,
+        "wonSD": 2.65,
+        "wonNonSD": -4.56,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/11/2023 2:15:58 PM",
+        "hands": 989,
+        "won": -11.1,
+        "ev": -7.81,
+        "wonSD": -3.24,
+        "wonNonSD": -7.86,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/11/2023 6:27:39 PM",
+        "hands": 855,
+        "won": 6.64,
+        "ev": 3.79,
+        "wonSD": 12.91,
+        "wonNonSD": -6.27,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/11/2023 9:52:54 PM",
+        "hands": 587,
+        "won": -26.44,
+        "ev": -10.86,
+        "wonSD": -24.58,
+        "wonNonSD": -1.86,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/12/2023 11:00:58 AM",
+        "hands": 310,
+        "won": -3.24,
+        "ev": -2.33,
+        "wonSD": -2.06,
+        "wonNonSD": -1.18,
+        "stakes": "0.02"
+    },
+    {
+        "session": "2/13/2023 8:52:13 PM",
+        "hands": 587,
+        "won": -7.24,
+        "ev": -8.64,
+        "wonSD": -1.92,
+        "wonNonSD": -5.32,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/15/2023 1:15:23 PM",
+        "hands": 79,
+        "won": -0.05,
+        "ev": -0.05,
+        "wonSD": 0.2,
+        "wonNonSD": -0.25,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/15/2023 6:08:35 PM",
+        "hands": 499,
+        "won": -2.94,
+        "ev": -2.08,
+        "wonSD": 0.8,
+        "wonNonSD": -3.74,
+        "stakes": "0.02"
+    },
+    {
+        "session": "2/16/2023 6:03:05 PM",
+        "hands": 449,
+        "won": -3.33,
+        "ev": -8.13,
+        "wonSD": -1.28,
+        "wonNonSD": -2.05,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/16/2023 7:58:13 PM",
+        "hands": 768,
+        "won": 15.89,
+        "ev": 3.07,
+        "wonSD": 17.68,
+        "wonNonSD": -1.79,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/20/2023 5:22:29 PM",
+        "hands": 932,
+        "won": -19.45,
+        "ev": -8,
+        "wonSD": -15.38,
+        "wonNonSD": -4.07,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/20/2023 10:00:16 PM",
+        "hands": 532,
+        "won": -3.29,
+        "ev": 0.24,
+        "wonSD": -0.6,
+        "wonNonSD": -2.69,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/21/2023 6:42:21 PM",
+        "hands": 489,
+        "won": 5.22,
+        "ev": 12.16,
+        "wonSD": 11.2,
+        "wonNonSD": -5.98,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/22/2023 6:45:55 PM",
+        "hands": 307,
+        "won": 2.45,
+        "ev": -0.18,
+        "wonSD": 0.64,
+        "wonNonSD": 1.81,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/22/2023 9:56:34 PM",
+        "hands": 303,
+        "won": 3.8,
+        "ev": 6.98,
+        "wonSD": 4.93,
+        "wonNonSD": -1.13,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/23/2023 10:40:29 AM",
+        "hands": 20,
+        "won": 0.28,
+        "ev": -0.02,
+        "wonSD": 0.29,
+        "wonNonSD": -0.01,
+        "stakes": "0.02"
+    },
+    {
+        "session": "2/23/2023 5:57:23 PM",
+        "hands": 432,
+        "won": 22.4,
+        "ev": 30.16,
+        "wonSD": 15.19,
+        "wonNonSD": 7.21,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/24/2023 5:58:30 PM",
+        "hands": 955,
+        "won": -9.77,
+        "ev": -4.18,
+        "wonSD": -1.34,
+        "wonNonSD": -8.43,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/24/2023 10:36:56 PM",
+        "hands": 640,
+        "won": -1.04,
+        "ev": 9.6,
+        "wonSD": 1.26,
+        "wonNonSD": -2.3,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/25/2023 4:40:32 PM",
+        "hands": 138,
+        "won": 1.96,
+        "ev": 1.89,
+        "wonSD": 4,
+        "wonNonSD": -2.04,
+        "stakes": "0.02"
+    },
+    {
+        "session": "2/25/2023 5:46:41 PM",
+        "hands": 308,
+        "won": 3.26,
+        "ev": 5.58,
+        "wonSD": 2.58,
+        "wonNonSD": 0.68,
+        "stakes": "0.02"
+    },
+    {
+        "session": "2/27/2023 12:58:18 PM",
+        "hands": 93,
+        "won": 4,
+        "ev": 4,
+        "wonSD": 4.22,
+        "wonNonSD": -0.22,
+        "stakes": "0.02"
+    },
+    {
+        "session": "2/27/2023 5:27:08 PM",
+        "hands": 416,
+        "won": 9.81,
+        "ev": 2.41,
+        "wonSD": 14.15,
+        "wonNonSD": -4.34,
+        "stakes": "0.02"
+    },
+    {
+        "session": "2/27/2023 9:55:38 PM",
+        "hands": 173,
+        "won": 2.44,
+        "ev": 1.25,
+        "wonSD": 2.13,
+        "wonNonSD": 0.31,
+        "stakes": "0.05"
+    },
+    {
+        "session": "2/28/2023 5:47:06 PM",
+        "hands": 335,
+        "won": 6.68,
+        "ev": 3.02,
+        "wonSD": 5.04,
+        "wonNonSD": 1.64,
+        "stakes": "0.02"
+    },
+    {
+        "session": "3/2/2023 5:39:53 PM",
+        "hands": 929,
+        "won": 14.38,
+        "ev": 8.39,
+        "wonSD": 16.08,
+        "wonNonSD": -1.7,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/3/2023 7:02:03 PM",
+        "hands": 604,
+        "won": 4.15,
+        "ev": 3.97,
+        "wonSD": 11.84,
+        "wonNonSD": -7.69,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/3/2023 10:27:52 PM",
+        "hands": 611,
+        "won": 13.63,
+        "ev": 3.21,
+        "wonSD": 30.2,
+        "wonNonSD": -16.57,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/5/2023 11:17:55 AM",
+        "hands": 5,
+        "won": 0,
+        "ev": 0,
+        "wonSD": 0,
+        "wonNonSD": 0,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/6/2023 1:20:14 PM",
+        "hands": 10,
+        "won": -0.24,
+        "ev": -0.24,
+        "wonSD": -0.55,
+        "wonNonSD": 0.31,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/6/2023 8:57:02 PM",
+        "hands": 83,
+        "won": 1.94,
+        "ev": 0.53,
+        "wonSD": 1.61,
+        "wonNonSD": 0.33,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/8/2023 10:21:28 PM",
+        "hands": 401,
+        "won": 10.85,
+        "ev": 9.89,
+        "wonSD": 16.67,
+        "wonNonSD": -6.02,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/9/2023 10:53:04 AM",
+        "hands": 197,
+        "won": -1.24,
+        "ev": -0.64,
+        "wonSD": -1.9,
+        "wonNonSD": 0.46,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/9/2023 6:00:38 PM",
+        "hands": 671,
+        "won": -2.6,
+        "ev": -2.49,
+        "wonSD": 5.13,
+        "wonNonSD": -7.96,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/10/2023 3:58:39 PM",
+        "hands": 39,
+        "won": 1.92,
+        "ev": 1.92,
+        "wonSD": -0.54,
+        "wonNonSD": 2.46,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/10/2023 5:43:07 PM",
+        "hands": 737,
+        "won": 1.43,
+        "ev": -0.97,
+        "wonSD": -1.95,
+        "wonNonSD": 3.3,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/11/2023 10:36:18 AM",
+        "hands": 440,
+        "won": 5.24,
+        "ev": 5.9,
+        "wonSD": 7.91,
+        "wonNonSD": -2.45,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/11/2023 5:29:17 PM",
+        "hands": 1252,
+        "won": 2.23,
+        "ev": -8.22,
+        "wonSD": 1.28,
+        "wonNonSD": 1.31,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/13/2023 6:07:28 PM",
+        "hands": 486,
+        "won": 13.05,
+        "ev": 8.83,
+        "wonSD": 13.39,
+        "wonNonSD": -0.34,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/14/2023 5:51:28 PM",
+        "hands": 899,
+        "won": 10.15,
+        "ev": 17.02,
+        "wonSD": 9.77,
+        "wonNonSD": 0.5,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/17/2023 5:50:07 PM",
+        "hands": 159,
+        "won": 2.29,
+        "ev": 2.07,
+        "wonSD": 1.1,
+        "wonNonSD": 1.31,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/17/2023 9:27:53 PM",
+        "hands": 692,
+        "won": -2.02,
+        "ev": -3.95,
+        "wonSD": 1.07,
+        "wonNonSD": -3.08,
+        "stakes": "0.02"
+    },
+    {
+        "session": "3/18/2023 8:40:06 PM",
+        "hands": 754,
+        "won": 9.78,
+        "ev": 5.05,
+        "wonSD": 17.16,
+        "wonNonSD": -7.43,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/19/2023 10:58:33 AM",
+        "hands": 158,
+        "won": 0.35,
+        "ev": 1.51,
+        "wonSD": 1.01,
+        "wonNonSD": -0.43,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/20/2023 7:29:13 PM",
+        "hands": 906,
+        "won": 11.42,
+        "ev": 11.54,
+        "wonSD": 9.57,
+        "wonNonSD": 2.11,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/21/2023 5:31:35 PM",
+        "hands": 1133,
+        "won": -15.6,
+        "ev": -8.91,
+        "wonSD": 2.65,
+        "wonNonSD": -20.15,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/21/2023 10:01:30 PM",
+        "hands": 88,
+        "won": 2.51,
+        "ev": 2.51,
+        "wonSD": 2.08,
+        "wonNonSD": 0.42,
+        "stakes": "0.10"
+    },
+    {
+        "session": "3/22/2023 1:26:54 PM",
+        "hands": 52,
+        "won": 0.32,
+        "ev": 0,
+        "wonSD": 1.97,
+        "wonNonSD": -1.65,
+        "stakes": "0.10"
+    },
+    {
+        "session": "3/22/2023 7:17:48 PM",
+        "hands": 491,
+        "won": 26.2,
+        "ev": -12.96,
+        "wonSD": 35.63,
+        "wonNonSD": -9.95,
+        "stakes": "0.10"
+    },
+    {
+        "session": "3/22/2023 10:17:07 PM",
+        "hands": 191,
+        "won": -12.02,
+        "ev": -12.02,
+        "wonSD": -13.73,
+        "wonNonSD": 0.78,
+        "stakes": "0.10"
+    },
+    {
+        "session": "3/23/2023 6:31:50 PM",
+        "hands": 764,
+        "won": 13.54,
+        "ev": 12.27,
+        "wonSD": 17.83,
+        "wonNonSD": -4.01,
+        "stakes": "0.10"
+    },
+    {
+        "session": "3/25/2023 5:37:26 PM",
+        "hands": 273,
+        "won": 10.26,
+        "ev": 6.94,
+        "wonSD": 9.04,
+        "wonNonSD": 2.42,
+        "stakes": "0.10"
+    },
+    {
+        "session": "3/25/2023 9:40:33 PM",
+        "hands": 1028,
+        "won": 0.96,
+        "ev": -6.03,
+        "wonSD": 10.43,
+        "wonNonSD": -8.64,
+        "stakes": "0.10"
+    },
+    {
+        "session": "3/26/2023 3:00:03 AM",
+        "hands": 15,
+        "won": 4.67,
+        "ev": 4.15,
+        "wonSD": 4.52,
+        "wonNonSD": 0.51,
+        "stakes": "0.10"
+    },
+    {
+        "session": "3/27/2023 8:18:27 PM",
+        "hands": 102,
+        "won": 0.05,
+        "ev": -1.58,
+        "wonSD": 2.41,
+        "wonNonSD": -2.36,
+        "stakes": "0.02"
+    },
+    {
+        "session": "3/27/2023 11:20:23 PM",
+        "hands": 12,
+        "won": 0.28,
+        "ev": 0.28,
+        "wonSD": 0,
+        "wonNonSD": 0.28,
+        "stakes": "0.10"
+    },
+    {
+        "session": "3/28/2023 6:46:55 PM",
+        "hands": 289,
+        "won": -10.43,
+        "ev": -8.38,
+        "wonSD": -12.05,
+        "wonNonSD": 1.62,
+        "stakes": "0.10"
+    },
+    {
+        "session": "3/29/2023 1:50:26 PM",
+        "hands": 34,
+        "won": -9.66,
+        "ev": -5.48,
+        "wonSD": -11.92,
+        "wonNonSD": 2.26,
+        "stakes": "0.10"
+    },
+    {
+        "session": "3/29/2023 2:55:37 PM",
+        "hands": 199,
+        "won": 1.94,
+        "ev": 4.28,
+        "wonSD": -0.64,
+        "wonNonSD": 2.58,
+        "stakes": "0.05"
+    },
+    {
+        "session": "3/31/2023 8:02:11 PM",
+        "hands": 1477,
+        "won": 30.93,
+        "ev": 27.92,
+        "wonSD": 34.98,
+        "wonNonSD": -3.8,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/1/2023 12:50:07 PM",
+        "hands": 930,
+        "won": 3.76,
+        "ev": -11.52,
+        "wonSD": 3.05,
+        "wonNonSD": 0.53,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/1/2023 7:04:19 PM",
+        "hands": 361,
+        "won": -31.09,
+        "ev": -32,
+        "wonSD": -14.8,
+        "wonNonSD": -16.24,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/1/2023 9:58:38 PM",
+        "hands": 603,
+        "won": 2.68,
+        "ev": 9.52,
+        "wonSD": -3.02,
+        "wonNonSD": 5.97,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/2/2023 12:01:17 PM",
+        "hands": 23,
+        "won": 3.07,
+        "ev": 3.07,
+        "wonSD": 2.29,
+        "wonNonSD": 0.78,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/4/2023 6:03:30 PM",
+        "hands": 55,
+        "won": 1.78,
+        "ev": 1.78,
+        "wonSD": 0,
+        "wonNonSD": 1.92,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/4/2023 9:41:12 PM",
+        "hands": 241,
+        "won": 7.21,
+        "ev": 0.94,
+        "wonSD": 6.11,
+        "wonNonSD": 1.1,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/5/2023 6:13:06 PM",
+        "hands": 755,
+        "won": -22.96,
+        "ev": -25.77,
+        "wonSD": -20.87,
+        "wonNonSD": -2.67,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/6/2023 5:47:42 PM",
+        "hands": 484,
+        "won": 17.78,
+        "ev": -2.12,
+        "wonSD": 11.6,
+        "wonNonSD": 7.13,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/8/2023 4:14:05 PM",
+        "hands": 165,
+        "won": 11.82,
+        "ev": 13.35,
+        "wonSD": 8.57,
+        "wonNonSD": 3.25,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/8/2023 6:27:20 PM",
+        "hands": 341,
+        "won": -9.74,
+        "ev": -9.8,
+        "wonSD": 0.27,
+        "wonNonSD": -11.57,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/8/2023 8:24:25 PM",
+        "hands": 79,
+        "won": 2.76,
+        "ev": 2.76,
+        "wonSD": 0.99,
+        "wonNonSD": 1.77,
+        "stakes": "0.05"
+    },
+    {
+        "session": "4/8/2023 10:48:16 PM",
+        "hands": 690,
+        "won": -7.97,
+        "ev": -13.53,
+        "wonSD": 0.42,
+        "wonNonSD": -8.77,
+        "stakes": "0.05"
+    },
+    {
+        "session": "4/11/2023 5:52:08 PM",
+        "hands": 61,
+        "won": 11.53,
+        "ev": 11.53,
+        "wonSD": 7.77,
+        "wonNonSD": 3.76,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/11/2023 11:07:02 PM",
+        "hands": 35,
+        "won": 1.2,
+        "ev": 1.78,
+        "wonSD": -0.54,
+        "wonNonSD": 1.74,
+        "stakes": "0.05"
+    },
+    {
+        "session": "4/12/2023 5:21:56 PM",
+        "hands": 415,
+        "won": 5.65,
+        "ev": 7.96,
+        "wonSD": 6.5,
+        "wonNonSD": -0.85,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/13/2023 5:58:05 PM",
+        "hands": 86,
+        "won": 8.45,
+        "ev": 8.31,
+        "wonSD": 5.31,
+        "wonNonSD": 3.15,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/13/2023 7:19:16 PM",
+        "hands": 178,
+        "won": 4.05,
+        "ev": 4.12,
+        "wonSD": 9.38,
+        "wonNonSD": -5.33,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/13/2023 9:00:47 PM",
+        "hands": 6,
+        "won": 2.44,
+        "ev": 1.22,
+        "wonSD": 3.11,
+        "wonNonSD": -0.67,
+        "stakes": "0.05"
+    },
+    {
+        "session": "4/14/2023 10:45:33 PM",
+        "hands": 515,
+        "won": 32.75,
+        "ev": 22.72,
+        "wonSD": 37.44,
+        "wonNonSD": -4.69,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/15/2023 8:28:13 PM",
+        "hands": 159,
+        "won": 15.02,
+        "ev": 13.32,
+        "wonSD": 16.52,
+        "wonNonSD": -1.5,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/15/2023 10:10:57 PM",
+        "hands": 1054,
+        "won": 3.44,
+        "ev": 30.4,
+        "wonSD": 9.4,
+        "wonNonSD": -5.62,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/18/2023 5:27:06 PM",
+        "hands": 174,
+        "won": 17.56,
+        "ev": 13.73,
+        "wonSD": 17.2,
+        "wonNonSD": 0.24,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/18/2023 10:01:17 PM",
+        "hands": 268,
+        "won": -15.32,
+        "ev": -6.92,
+        "wonSD": -10.69,
+        "wonNonSD": -4.63,
+        "stakes": "0.05"
+    },
+    {
+        "session": "4/19/2023 1:18:21 PM",
+        "hands": 335,
+        "won": -5.26,
+        "ev": 3.37,
+        "wonSD": -0.13,
+        "wonNonSD": -5.47,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/19/2023 7:11:51 PM",
+        "hands": 641,
+        "won": -10.21,
+        "ev": -4.46,
+        "wonSD": -0.88,
+        "wonNonSD": -9.26,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/19/2023 10:12:39 PM",
+        "hands": 276,
+        "won": -16.08,
+        "ev": -7.48,
+        "wonSD": -12.76,
+        "wonNonSD": -3.15,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/20/2023 1:26:07 PM",
+        "hands": 254,
+        "won": 11.34,
+        "ev": 14.57,
+        "wonSD": 17.44,
+        "wonNonSD": -6.1,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/23/2023 12:22:43 AM",
+        "hands": 314,
+        "won": 28.3,
+        "ev": 27.46,
+        "wonSD": 24.41,
+        "wonNonSD": 4.94,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/24/2023 4:58:34 PM",
+        "hands": 557,
+        "won": -16.37,
+        "ev": -15.47,
+        "wonSD": -10.27,
+        "wonNonSD": -6.1,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/24/2023 7:26:50 PM",
+        "hands": 293,
+        "won": 15.22,
+        "ev": 6.68,
+        "wonSD": 17.81,
+        "wonNonSD": -2.59,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/28/2023 7:18:01 PM",
+        "hands": 565,
+        "won": -21.41,
+        "ev": -20.46,
+        "wonSD": -14.43,
+        "wonNonSD": -7.39,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/29/2023 12:35:14 AM",
+        "hands": 13,
+        "won": 0.85,
+        "ev": 0.85,
+        "wonSD": 2.1,
+        "wonNonSD": -1.23,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/29/2023 10:46:10 AM",
+        "hands": 224,
+        "won": 0.89,
+        "ev": 0.89,
+        "wonSD": 4.79,
+        "wonNonSD": -3.96,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/29/2023 5:48:34 PM",
+        "hands": 1055,
+        "won": -15.33,
+        "ev": -12.96,
+        "wonSD": 6.82,
+        "wonNonSD": -22.9,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/29/2023 11:46:38 PM",
+        "hands": 221,
+        "won": -16.91,
+        "ev": -6.99,
+        "wonSD": -18,
+        "wonNonSD": 1.29,
+        "stakes": "0.10"
+    },
+    {
+        "session": "4/30/2023 11:54:44 PM",
+        "hands": 996,
+        "won": -1.02,
+        "ev": -5.94,
+        "wonSD": 0.52,
+        "wonNonSD": -2.16,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/1/2023 3:54:21 PM",
+        "hands": 73,
+        "won": 0.58,
+        "ev": 0.58,
+        "wonSD": 0,
+        "wonNonSD": 0.68,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/1/2023 6:47:29 PM",
+        "hands": 792,
+        "won": 17.61,
+        "ev": 6.18,
+        "wonSD": 19.83,
+        "wonNonSD": -1.37,
+        "stakes": "0.05"
+    },
+    {
+        "session": "5/2/2023 5:27:16 PM",
+        "hands": 174,
+        "won": 5.23,
+        "ev": 3.87,
+        "wonSD": 1.53,
+        "wonNonSD": 3.74,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/2/2023 7:56:04 PM",
+        "hands": 423,
+        "won": 13.67,
+        "ev": 13.47,
+        "wonSD": 10.74,
+        "wonNonSD": 2.52,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/3/2023 10:45:25 PM",
+        "hands": 867,
+        "won": -17.99,
+        "ev": -21.05,
+        "wonSD": -4.46,
+        "wonNonSD": -13.53,
+        "stakes": "0.05"
+    },
+    {
+        "session": "5/4/2023 6:28:07 PM",
+        "hands": 588,
+        "won": -6.54,
+        "ev": -4.69,
+        "wonSD": -10.83,
+        "wonNonSD": 4.71,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/4/2023 10:58:09 PM",
+        "hands": 502,
+        "won": -0.39,
+        "ev": -2.5,
+        "wonSD": 1.4,
+        "wonNonSD": -1.56,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/5/2023 1:41:43 PM",
+        "hands": 457,
+        "won": 4.37,
+        "ev": -2.3,
+        "wonSD": 1.26,
+        "wonNonSD": 2.97,
+        "stakes": "0.05"
+    },
+    {
+        "session": "5/6/2023 6:29:06 PM",
+        "hands": 341,
+        "won": 12.69,
+        "ev": 9.92,
+        "wonSD": 15,
+        "wonNonSD": -2.31,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/6/2023 8:37:25 PM",
+        "hands": 203,
+        "won": -2.03,
+        "ev": -6.18,
+        "wonSD": 0.39,
+        "wonNonSD": -2.42,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/7/2023 11:42:32 AM",
+        "hands": 26,
+        "won": 11.8,
+        "ev": 11.8,
+        "wonSD": 11,
+        "wonNonSD": 0.78,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/7/2023 10:14:29 PM",
+        "hands": 204,
+        "won": 11.35,
+        "ev": 7.94,
+        "wonSD": 14.81,
+        "wonNonSD": -3.46,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/8/2023 9:29:35 PM",
+        "hands": 683,
+        "won": -5.56,
+        "ev": -4.63,
+        "wonSD": -2.99,
+        "wonNonSD": -2.53,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/9/2023 5:42:11 PM",
+        "hands": 524,
+        "won": -10.67,
+        "ev": -13.37,
+        "wonSD": 4.15,
+        "wonNonSD": -14.18,
+        "stakes": "0.05"
+    },
+    {
+        "session": "5/9/2023 9:37:46 PM",
+        "hands": 547,
+        "won": 0.98,
+        "ev": -3.37,
+        "wonSD": 6.53,
+        "wonNonSD": -5.41,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/10/2023 9:10:37 PM",
+        "hands": 848,
+        "won": -4.82,
+        "ev": -9.61,
+        "wonSD": 21.05,
+        "wonNonSD": -26.5,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/11/2023 6:57:44 PM",
+        "hands": 801,
+        "won": 13.73,
+        "ev": 1.73,
+        "wonSD": 9.01,
+        "wonNonSD": 4.24,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/13/2023 5:14:24 PM",
+        "hands": 581,
+        "won": 15.08,
+        "ev": 14.68,
+        "wonSD": 26.66,
+        "wonNonSD": -11.58,
+        "stakes": "0.05"
+    },
+    {
+        "session": "5/15/2023 10:43:57 AM",
+        "hands": 154,
+        "won": 13.54,
+        "ev": 19.31,
+        "wonSD": 16.59,
+        "wonNonSD": -3.05,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/15/2023 5:34:56 PM",
+        "hands": 78,
+        "won": -0.05,
+        "ev": 3.2,
+        "wonSD": 1.99,
+        "wonNonSD": -2.04,
+        "stakes": "0.05"
+    },
+    {
+        "session": "5/16/2023 12:37:51 PM",
+        "hands": 373,
+        "won": 1,
+        "ev": -2.71,
+        "wonSD": 4.11,
+        "wonNonSD": -3.11,
+        "stakes": "0.05"
+    },
+    {
+        "session": "5/22/2023 7:00:46 PM",
+        "hands": 1029,
+        "won": 28.65,
+        "ev": 21.43,
+        "wonSD": 27.65,
+        "wonNonSD": 1,
+        "stakes": "0.05"
+    },
+    {
+        "session": "5/23/2023 6:25:21 PM",
+        "hands": 249,
+        "won": 11.01,
+        "ev": 7.97,
+        "wonSD": 11.68,
+        "wonNonSD": -0.75,
+        "stakes": "0.05"
+    },
+    {
+        "session": "5/23/2023 10:10:14 PM",
+        "hands": 590,
+        "won": 19.04,
+        "ev": 18.47,
+        "wonSD": 31.55,
+        "wonNonSD": -12.51,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/24/2023 5:42:46 PM",
+        "hands": 455,
+        "won": -16.24,
+        "ev": -4.64,
+        "wonSD": -13.83,
+        "wonNonSD": -2.41,
+        "stakes": "0.05"
+    },
+    {
+        "session": "5/24/2023 10:55:55 PM",
+        "hands": 406,
+        "won": 14.14,
+        "ev": 10.75,
+        "wonSD": 8.25,
+        "wonNonSD": 5.89,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/25/2023 5:52:30 PM",
+        "hands": 451,
+        "won": 11.82,
+        "ev": 17.58,
+        "wonSD": 7.76,
+        "wonNonSD": 4.06,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/25/2023 10:07:49 PM",
+        "hands": 507,
+        "won": 6.79,
+        "ev": 7.68,
+        "wonSD": 20.69,
+        "wonNonSD": -13.9,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/26/2023 3:45:33 PM",
+        "hands": 343,
+        "won": -9.37,
+        "ev": -2.49,
+        "wonSD": -12.95,
+        "wonNonSD": 3.58,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/26/2023 11:46:11 PM",
+        "hands": 408,
+        "won": 23.84,
+        "ev": 19.9,
+        "wonSD": 18.74,
+        "wonNonSD": 5.1,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/27/2023 11:07:39 AM",
+        "hands": 253,
+        "won": 8.38,
+        "ev": 11.37,
+        "wonSD": 9.83,
+        "wonNonSD": -1.45,
+        "stakes": "0.02"
+    },
+    {
+        "session": "5/27/2023 4:11:22 PM",
+        "hands": 292,
+        "won": -2.79,
+        "ev": 4.01,
+        "wonSD": -5.72,
+        "wonNonSD": 2.93,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/27/2023 11:25:43 PM",
+        "hands": 582,
+        "won": -4.49,
+        "ev": -7.28,
+        "wonSD": 4.26,
+        "wonNonSD": -8.75,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/29/2023 6:42:20 PM",
+        "hands": 1124,
+        "won": -38.61,
+        "ev": -21.96,
+        "wonSD": -26.88,
+        "wonNonSD": -11.73,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/30/2023 12:54:06 PM",
+        "hands": 387,
+        "won": -12.09,
+        "ev": 3.67,
+        "wonSD": -8.97,
+        "wonNonSD": -3.12,
+        "stakes": "0.10"
+    },
+    {
+        "session": "5/31/2023 7:00:09 PM",
+        "hands": 557,
+        "won": -43.64,
+        "ev": -31.08,
+        "wonSD": -42.42,
+        "wonNonSD": -1.22,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/1/2023 7:12:25 PM",
+        "hands": 363,
+        "won": -0.34,
+        "ev": -4.52,
+        "wonSD": 3.6,
+        "wonNonSD": -3.94,
+        "stakes": "0.05"
+    },
+    {
+        "session": "6/2/2023 7:12:41 PM",
+        "hands": 159,
+        "won": 5.38,
+        "ev": -9.74,
+        "wonSD": 6.1,
+        "wonNonSD": -0.72,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/3/2023 5:30:59 PM",
+        "hands": 426,
+        "won": -18.96,
+        "ev": -16.36,
+        "wonSD": -8.44,
+        "wonNonSD": -10.52,
+        "stakes": "0.05"
+    },
+    {
+        "session": "6/3/2023 10:16:27 PM",
+        "hands": 444,
+        "won": 11.74,
+        "ev": 12.29,
+        "wonSD": -2.07,
+        "wonNonSD": 13.81,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/5/2023 5:53:12 PM",
+        "hands": 64,
+        "won": -1.41,
+        "ev": -1.41,
+        "wonSD": -1.7,
+        "wonNonSD": 0.29,
+        "stakes": "0.05"
+    },
+    {
+        "session": "6/5/2023 10:07:29 PM",
+        "hands": 543,
+        "won": 10.49,
+        "ev": 19.13,
+        "wonSD": 5.61,
+        "wonNonSD": 4.88,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/6/2023 8:35:07 PM",
+        "hands": 1048,
+        "won": -15.57,
+        "ev": -7.55,
+        "wonSD": -7.9,
+        "wonNonSD": -7.67,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/7/2023 9:56:45 PM",
+        "hands": 89,
+        "won": 17.54,
+        "ev": 13.36,
+        "wonSD": 19.09,
+        "wonNonSD": -1.55,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/8/2023 1:30:52 AM",
+        "hands": 923,
+        "won": 29.54,
+        "ev": 21.06,
+        "wonSD": 15.04,
+        "wonNonSD": 14.5,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/8/2023 7:22:19 PM",
+        "hands": 439,
+        "won": 9.05,
+        "ev": -1.32,
+        "wonSD": 0.54,
+        "wonNonSD": 8.51,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/9/2023 6:38:45 PM",
+        "hands": 395,
+        "won": 10.33,
+        "ev": 10.58,
+        "wonSD": 7.8,
+        "wonNonSD": 2.53,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/10/2023 7:21:14 PM",
+        "hands": 343,
+        "won": 15.18,
+        "ev": 14.25,
+        "wonSD": 10.99,
+        "wonNonSD": 4.19,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/10/2023 11:51:25 PM",
+        "hands": 766,
+        "won": 6.2,
+        "ev": -4.08,
+        "wonSD": 18.82,
+        "wonNonSD": -12.62,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/13/2023 11:56:20 PM",
+        "hands": 128,
+        "won": 12.58,
+        "ev": 12.58,
+        "wonSD": 0,
+        "wonNonSD": 12.58,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/14/2023 6:40:13 PM",
+        "hands": 630,
+        "won": -9.39,
+        "ev": -36.55,
+        "wonSD": 11.98,
+        "wonNonSD": -21.37,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/14/2023 11:32:28 PM",
+        "hands": 465,
+        "won": -2.37,
+        "ev": -1.13,
+        "wonSD": 3.9,
+        "wonNonSD": -6.27,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/15/2023 7:05:12 PM",
+        "hands": 124,
+        "won": 8.13,
+        "ev": 4.65,
+        "wonSD": 5.47,
+        "wonNonSD": 2.66,
+        "stakes": "0.05"
+    },
+    {
+        "session": "6/15/2023 11:11:19 PM",
+        "hands": 639,
+        "won": -22.24,
+        "ev": -2.12,
+        "wonSD": -6.91,
+        "wonNonSD": -15.33,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/17/2023 1:15:53 AM",
+        "hands": 1030,
+        "won": -13.88,
+        "ev": 17.95,
+        "wonSD": -10.97,
+        "wonNonSD": -3.24,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/17/2023 2:51:50 PM",
+        "hands": 359,
+        "won": 10.34,
+        "ev": 7.12,
+        "wonSD": 14.12,
+        "wonNonSD": -3.78,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/19/2023 7:35:53 PM",
+        "hands": 361,
+        "won": 5.35,
+        "ev": 5.35,
+        "wonSD": 2.56,
+        "wonNonSD": 2.79,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/21/2023 6:15:55 PM",
+        "hands": 366,
+        "won": -52.7,
+        "ev": -35.8,
+        "wonSD": -44.29,
+        "wonNonSD": -8.41,
+        "stakes": "0.10"
+    },
+    {
+        "session": "6/22/2023 5:54:59 PM",
+        "hands": 258,
+        "won": 8.9,
+        "ev": 3.78,
+        "wonSD": 5.68,
+        "wonNonSD": 3.22,
+        "stakes": "0.10"
+    },
+    {
+        "session": "7/4/2023 5:58:18 PM",
+        "hands": 107,
+        "won": 10.1,
+        "ev": 10.1,
+        "wonSD": -1.32,
+        "wonNonSD": 11.42,
+        "stakes": "0.10"
+    },
+    {
+        "session": "7/4/2023 9:47:09 PM",
+        "hands": 805,
+        "won": -7.91,
+        "ev": -3.87,
+        "wonSD": -12.37,
+        "wonNonSD": 4.46,
+        "stakes": "0.10"
+    },
+    {
+        "session": "7/5/2023 8:45:12 PM",
+        "hands": 411,
+        "won": -6.69,
+        "ev": -0.05,
+        "wonSD": -5.04,
+        "wonNonSD": -1.65,
+        "stakes": "0.10"
+    },
+    {
+        "session": "7/5/2023 10:21:59 PM",
+        "hands": 293,
+        "won": -1.43,
+        "ev": -8.2,
+        "wonSD": 3.5,
+        "wonNonSD": -4.93,
+        "stakes": "0.02"
+    },
+    {
+        "session": "7/6/2023 6:43:16 PM",
+        "hands": 404,
+        "won": 11.44,
+        "ev": -4.23,
+        "wonSD": 8.11,
+        "wonNonSD": 3.33,
+        "stakes": "0.10"
+    },
+    {
+        "session": "7/6/2023 9:38:58 PM",
+        "hands": 613,
+        "won": 18.94,
+        "ev": 14.33,
+        "wonSD": 9.61,
+        "wonNonSD": 9.33,
+        "stakes": "0.10"
+    },
+    {
+        "session": "7/8/2023 5:29:21 PM",
+        "hands": 221,
+        "won": -1.45,
+        "ev": 6.87,
+        "wonSD": -1.37,
+        "wonNonSD": -0.08,
+        "stakes": "0.10"
+    },
+    {
+        "session": "7/9/2023 11:20:07 AM",
+        "hands": 36,
+        "won": 11.43,
+        "ev": 10.01,
+        "wonSD": 11.68,
+        "wonNonSD": -0.25,
+        "stakes": "0.10"
+    },
+    {
+        "session": "7/9/2023 7:56:13 PM",
+        "hands": 973,
+        "won": -34.71,
+        "ev": -30,
+        "wonSD": -19.71,
+        "wonNonSD": -15,
+        "stakes": "0.10"
+    },
+    {
+        "session": "7/17/2023 11:36:27 PM",
+        "hands": 319,
+        "won": -11.76,
+        "ev": -11.12,
+        "wonSD": -20.73,
+        "wonNonSD": 8.97,
+        "stakes": "0.10"
+    },
+    {
+        "session": "7/18/2023 10:45:32 AM",
+        "hands": 45,
+        "won": 1.1,
+        "ev": 1.1,
+        "wonSD": -1.57,
+        "wonNonSD": 2.67,
+        "stakes": "0.10"
+    },
+    {
+        "session": "7/18/2023 1:50:56 PM",
+        "hands": 261,
+        "won": -14.33,
+        "ev": -13.13,
+        "wonSD": -11.91,
+        "wonNonSD": -2.42,
+        "stakes": "0.10"
+    },
+    {
+        "session": "7/18/2023 10:17:38 PM",
+        "hands": 27,
+        "won": 11.85,
+        "ev": 9.53,
+        "wonSD": 13.7,
+        "wonNonSD": -1.85,
+        "stakes": "0.10"
+    },
+    {
+        "session": "7/26/2023 8:54:36 PM",
+        "hands": 542,
+        "won": 16.81,
+        "ev": 22.04,
+        "wonSD": 27.13,
+        "wonNonSD": -10.32,
+        "stakes": "0.10"
+    },
+    {
+        "session": "8/1/2023 7:54:08 PM",
+        "hands": 484,
+        "won": -7.76,
+        "ev": -6.6,
+        "wonSD": 0.59,
+        "wonNonSD": -8.35,
+        "stakes": "0.10"
+    },
+    {
+        "session": "8/2/2023 11:22:53 PM",
+        "hands": 434,
+        "won": 6.33,
+        "ev": 4.34,
+        "wonSD": 17.89,
+        "wonNonSD": -11.56,
+        "stakes": "0.10"
+    },
+    {
+        "session": "8/4/2023 6:49:22 PM",
+        "hands": 525,
+        "won": 23.08,
+        "ev": -2.25,
+        "wonSD": 37.68,
+        "wonNonSD": -14.6,
+        "stakes": "0.10"
+    },
+    {
+        "session": "8/6/2023 6:32:06 PM",
+        "hands": 982,
+        "won": -9.03,
+        "ev": -11.47,
+        "wonSD": 14.29,
+        "wonNonSD": -23.32,
+        "stakes": "0.10"
+    },
+    {
+        "session": "8/9/2023 10:51:28 PM",
+        "hands": 540,
+        "won": 42.84,
+        "ev": 28.89,
+        "wonSD": 43.01,
+        "wonNonSD": -0.17,
+        "stakes": "0.10"
+    },
+    {
+        "session": "8/10/2023 10:50:24 PM",
+        "hands": 1008,
+        "won": 0.34,
+        "ev": -3.52,
+        "wonSD": 22.02,
+        "wonNonSD": -21.68,
+        "stakes": "0.10"
+    },
+    {
+        "session": "8/12/2023 3:54:01 PM",
+        "hands": 1728,
+        "won": -58.26,
+        "ev": -43.66,
+        "wonSD": -10.34,
+        "wonNonSD": -47.92,
+        "stakes": "0.10"
+    },
+    {
+        "session": "8/21/2023 6:48:53 PM",
+        "hands": 931,
+        "won": -53.8,
+        "ev": -43.16,
+        "wonSD": -45.63,
+        "wonNonSD": -8.17,
+        "stakes": "0.10"
+    },
+    {
+        "session": "8/22/2023 8:36:18 PM",
+        "hands": 18,
+        "won": -1.21,
+        "ev": -1.21,
+        "wonSD": -0.9,
+        "wonNonSD": -0.31,
+        "stakes": "0.10"
+    },
+    {
+        "session": "8/22/2023 9:28:21 PM",
+        "hands": 868,
+        "won": -26.28,
+        "ev": -31.09,
+        "wonSD": -15.36,
+        "wonNonSD": -10.92,
+        "stakes": "0.10"
+    },
+    {
+        "session": "8/28/2023 5:52:32 PM",
+        "hands": 720,
+        "won": 1.52,
+        "ev": -11.74,
+        "wonSD": 13.32,
+        "wonNonSD": -11.8,
+        "stakes": "0.10"
+    },
+    {
+        "session": "8/30/2023 6:34:48 PM",
+        "hands": 887,
+        "won": 18.57,
+        "ev": 5.4,
+        "wonSD": 24.22,
+        "wonNonSD": -5.65,
+        "stakes": "0.10"
+    },
+    {
+        "session": "8/31/2023 1:35:27 PM",
+        "hands": 450,
+        "won": 28.77,
+        "ev": 30.16,
+        "wonSD": 20.8,
+        "wonNonSD": 7.97,
+        "stakes": "0.10"
+    },
+    {
+        "session": "8/31/2023 5:47:07 PM",
+        "hands": 58,
+        "won": 0.87,
+        "ev": 0.87,
+        "wonSD": 0.14,
+        "wonNonSD": 0.73,
+        "stakes": "0.10"
+    },
+    {
+        "session": "8/31/2023 6:48:24 PM",
+        "hands": 989,
+        "won": -22.32,
+        "ev": -9.61,
+        "wonSD": -18.01,
+        "wonNonSD": -4.31,
+        "stakes": "0.10"
+    },
+    {
+        "session": "9/1/2023 6:47:57 PM",
+        "hands": 1106,
+        "won": 39.24,
+        "ev": 21.68,
+        "wonSD": 54.64,
+        "wonNonSD": -15.4,
+        "stakes": "0.10"
+    },
+    {
+        "session": "9/4/2023 5:50:22 PM",
+        "hands": 1155,
+        "won": 14.69,
+        "ev": 3.99,
+        "wonSD": 28.61,
+        "wonNonSD": -13.92,
+        "stakes": "0.10"
+    },
+    {
+        "session": "9/5/2023 11:02:27 PM",
+        "hands": 1043,
+        "won": 42.69,
+        "ev": 38.72,
+        "wonSD": 23.18,
+        "wonNonSD": 19.51,
+        "stakes": "0.10"
+    },
+    {
+        "session": "9/6/2023 8:51:42 PM",
+        "hands": 1506,
+        "won": -0.75,
+        "ev": 12.34,
+        "wonSD": -3.72,
+        "wonNonSD": 2.97,
+        "stakes": "0.10"
+    },
+    {
+        "session": "9/8/2023 11:42:29 PM",
+        "hands": 1363,
+        "won": 10.76,
+        "ev": 0.66,
+        "wonSD": 20.17,
+        "wonNonSD": -9.41,
+        "stakes": "0.10"
+    },
+    {
+        "session": "9/9/2023 8:51:45 PM",
+        "hands": 894,
+        "won": -21.6,
+        "ev": -18.14,
+        "wonSD": -18.54,
+        "wonNonSD": -3.06,
+        "stakes": "0.10"
+    },
+    {
+        "session": "9/9/2023 11:14:06 PM",
+        "hands": 825,
+        "won": 24.89,
+        "ev": 37.62,
+        "wonSD": 18.37,
+        "wonNonSD": 6.52,
+        "stakes": "0.10"
+    },
+    {
+        "session": "9/11/2023 7:07:50 PM",
+        "hands": 1700,
+        "won": -6.11,
+        "ev": 2.16,
+        "wonSD": 22.13,
+        "wonNonSD": -28.24,
+        "stakes": "0.10"
+    },
+    {
+        "session": "9/12/2023 8:09:11 PM",
+        "hands": 875,
+        "won": 27.68,
+        "ev": 21.54,
+        "wonSD": 15.17,
+        "wonNonSD": 12.51,
+        "stakes": "0.10"
+    },
+    {
+        "session": "9/14/2023 7:24:42 PM",
+        "hands": 1448,
+        "won": -16.58,
+        "ev": -14.37,
+        "wonSD": -0.75,
+        "wonNonSD": -15.83,
+        "stakes": "0.10"
+    },
+    {
+        "session": "9/15/2023 7:28:04 PM",
+        "hands": 2105,
+        "won": 3.88,
+        "ev": -23.14,
+        "wonSD": 39.94,
+        "wonNonSD": -36.06,
+        "stakes": "0.10"
+    },
+    {
+        "session": "9/19/2023 6:33:17 PM",
+        "hands": 2872,
+        "won": -49.99,
+        "ev": -31.11,
+        "wonSD": -22.45,
+        "wonNonSD": -27.54,
+        "stakes": "0.10"
+    },
+    {
+        "session": "9/20/2023 5:54:01 PM",
+        "hands": 1085,
+        "won": 42,
+        "ev": 41.44,
+        "wonSD": 20.11,
+        "wonNonSD": 21.89,
+        "stakes": "0.10"
+    },
+    {
+        "session": "9/27/2023 6:30:30 PM",
+        "hands": 1713,
+        "won": -20.29,
+        "ev": -29.95,
+        "wonSD": -8.84,
+        "wonNonSD": -11.45,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/2/2023 7:26:48 PM",
+        "hands": 932,
+        "won": -4.71,
+        "ev": 1.91,
+        "wonSD": -3.06,
+        "wonNonSD": -1.65,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/5/2023 1:46:22 PM",
+        "hands": 74,
+        "won": 13.32,
+        "ev": 13.32,
+        "wonSD": 13.21,
+        "wonNonSD": 0.11,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/5/2023 2:45:06 PM",
+        "hands": 1628,
+        "won": -83.81,
+        "ev": -77.87,
+        "wonSD": -64.78,
+        "wonNonSD": -19.03,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/6/2023 7:14:12 PM",
+        "hands": 48,
+        "won": -2.06,
+        "ev": -2.01,
+        "wonSD": -1.87,
+        "wonNonSD": -0.19,
+        "stakes": "0.02"
+    },
+    {
+        "session": "10/9/2023 5:44:27 PM",
+        "hands": 1432,
+        "won": 6.97,
+        "ev": -0.81,
+        "wonSD": 20.39,
+        "wonNonSD": -13.42,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/10/2023 11:21:51 AM",
+        "hands": 535,
+        "won": 11.31,
+        "ev": 12.84,
+        "wonSD": 17.67,
+        "wonNonSD": -6.36,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/11/2023 4:27:58 PM",
+        "hands": 695,
+        "won": -8.07,
+        "ev": -10.19,
+        "wonSD": 4.59,
+        "wonNonSD": -12.66,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/12/2023 1:25:54 PM",
+        "hands": 1508,
+        "won": -10.38,
+        "ev": 8.19,
+        "wonSD": 9.5,
+        "wonNonSD": -19.88,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/14/2023 12:34:29 AM",
+        "hands": 1351,
+        "won": -19.07,
+        "ev": 22.67,
+        "wonSD": -17.49,
+        "wonNonSD": -1.58,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/14/2023 6:56:24 PM",
+        "hands": 946,
+        "won": -31.97,
+        "ev": -34.1,
+        "wonSD": -17.54,
+        "wonNonSD": -14.43,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/16/2023 4:04:17 PM",
+        "hands": 119,
+        "won": -21.83,
+        "ev": -0.3,
+        "wonSD": -22.16,
+        "wonNonSD": 0.33,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/16/2023 6:56:49 PM",
+        "hands": 457,
+        "won": 15.77,
+        "ev": -5.59,
+        "wonSD": 13.02,
+        "wonNonSD": 2.75,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/17/2023 2:24:59 PM",
+        "hands": 666,
+        "won": 9.27,
+        "ev": 9.18,
+        "wonSD": 7.44,
+        "wonNonSD": 1.83,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/17/2023 4:58:57 PM",
+        "hands": 447,
+        "won": 3.28,
+        "ev": -6.16,
+        "wonSD": 2.97,
+        "wonNonSD": 0.31,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/17/2023 9:55:33 PM",
+        "hands": 746,
+        "won": -21.56,
+        "ev": -8.78,
+        "wonSD": -10.67,
+        "wonNonSD": -10.89,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/18/2023 1:18:08 PM",
+        "hands": 777,
+        "won": 10.56,
+        "ev": 10.12,
+        "wonSD": 27.88,
+        "wonNonSD": -17.32,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/19/2023 10:32:39 AM",
+        "hands": 598,
+        "won": -17.11,
+        "ev": -2.18,
+        "wonSD": -15.52,
+        "wonNonSD": -1.59,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/19/2023 2:34:57 PM",
+        "hands": 607,
+        "won": 37.22,
+        "ev": 29.5,
+        "wonSD": 31.39,
+        "wonNonSD": 5.83,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/20/2023 11:24:39 AM",
+        "hands": 682,
+        "won": 28.97,
+        "ev": 17.56,
+        "wonSD": 19.97,
+        "wonNonSD": 9,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/20/2023 2:33:56 PM",
+        "hands": 625,
+        "won": 1.35,
+        "ev": -2.04,
+        "wonSD": 10.37,
+        "wonNonSD": -9.02,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/23/2023 3:42:01 PM",
+        "hands": 1563,
+        "won": -13.86,
+        "ev": -8.06,
+        "wonSD": -6.04,
+        "wonNonSD": -7.82,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/24/2023 4:09:56 PM",
+        "hands": 841,
+        "won": -32.82,
+        "ev": -19.1,
+        "wonSD": -33.43,
+        "wonNonSD": 0.61,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/25/2023 3:04:20 PM",
+        "hands": 868,
+        "won": -1.52,
+        "ev": -10.58,
+        "wonSD": 4.22,
+        "wonNonSD": -5.74,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/26/2023 2:18:19 PM",
+        "hands": 1231,
+        "won": 7.11,
+        "ev": 1.31,
+        "wonSD": 23.47,
+        "wonNonSD": -16.36,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/27/2023 1:12:20 PM",
+        "hands": 1188,
+        "won": 11.13,
+        "ev": -6.62,
+        "wonSD": 32.25,
+        "wonNonSD": -21.12,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/29/2023 12:28:14 AM",
+        "hands": 1081,
+        "won": 13.36,
+        "ev": 6.29,
+        "wonSD": 39.18,
+        "wonNonSD": -25.82,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/29/2023 6:06:21 PM",
+        "hands": 1192,
+        "won": 57.32,
+        "ev": 52.86,
+        "wonSD": 45.12,
+        "wonNonSD": 12.2,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/30/2023 2:18:49 PM",
+        "hands": 933,
+        "won": 29.06,
+        "ev": -0.18,
+        "wonSD": 39.07,
+        "wonNonSD": -10.01,
+        "stakes": "0.10"
+    },
+    {
+        "session": "10/31/2023 2:04:13 PM",
+        "hands": 1503,
+        "won": -19.83,
+        "ev": -31.09,
+        "wonSD": -5.71,
+        "wonNonSD": -14.12,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/3/2023 10:52:46 AM",
+        "hands": 758,
+        "won": 47.72,
+        "ev": 45.36,
+        "wonSD": 48.12,
+        "wonNonSD": -0.4,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/3/2023 2:51:59 PM",
+        "hands": 1179,
+        "won": -21.39,
+        "ev": -14.91,
+        "wonSD": -25.91,
+        "wonNonSD": 4.52,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/4/2023 2:20:31 PM",
+        "hands": 904,
+        "won": 21.17,
+        "ev": 16.15,
+        "wonSD": 21.12,
+        "wonNonSD": 0.05,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/6/2023 2:10:10 PM",
+        "hands": 1116,
+        "won": 48.9,
+        "ev": 44.62,
+        "wonSD": 75.51,
+        "wonNonSD": -26.61,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/7/2023 2:17:27 PM",
+        "hands": 813,
+        "won": -17.87,
+        "ev": -22.39,
+        "wonSD": 8.05,
+        "wonNonSD": -25.92,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/7/2023 10:59:35 PM",
+        "hands": 545,
+        "won": 19.17,
+        "ev": 17.92,
+        "wonSD": 24.6,
+        "wonNonSD": -5.43,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/8/2023 3:16:24 PM",
+        "hands": 929,
+        "won": -20.15,
+        "ev": -16.91,
+        "wonSD": 9.66,
+        "wonNonSD": -29.81,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/8/2023 11:50:56 PM",
+        "hands": 910,
+        "won": -17.31,
+        "ev": -6.8,
+        "wonSD": -12.53,
+        "wonNonSD": -4.78,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/9/2023 2:52:56 PM",
+        "hands": 376,
+        "won": 17.67,
+        "ev": 19.1,
+        "wonSD": 6,
+        "wonNonSD": 11.67,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/9/2023 7:16:19 PM",
+        "hands": 12,
+        "won": 2.85,
+        "ev": 2.85,
+        "wonSD": 1.76,
+        "wonNonSD": 1.09,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/10/2023 11:25:56 AM",
+        "hands": 718,
+        "won": 0.41,
+        "ev": -8.26,
+        "wonSD": 7.6,
+        "wonNonSD": -7.19,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/10/2023 2:15:41 PM",
+        "hands": 1030,
+        "won": 18.57,
+        "ev": 10.34,
+        "wonSD": 15.96,
+        "wonNonSD": 2.61,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/11/2023 7:01:01 PM",
+        "hands": 634,
+        "won": 20.44,
+        "ev": 25.62,
+        "wonSD": 5.2,
+        "wonNonSD": 15.24,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/13/2023 2:09:09 PM",
+        "hands": 925,
+        "won": -20.22,
+        "ev": -16.73,
+        "wonSD": -15.5,
+        "wonNonSD": -4.72,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/14/2023 1:56:18 PM",
+        "hands": 1087,
+        "won": -2.36,
+        "ev": 3.22,
+        "wonSD": 2.54,
+        "wonNonSD": -4.9,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/15/2023 12:59:01 PM",
+        "hands": 1214,
+        "won": 41.42,
+        "ev": 6.7,
+        "wonSD": 68.6,
+        "wonNonSD": -27.18,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/16/2023 2:25:29 PM",
+        "hands": 1136,
+        "won": 16.05,
+        "ev": 5.92,
+        "wonSD": 49.64,
+        "wonNonSD": -33.59,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/17/2023 2:56:04 PM",
+        "hands": 1044,
+        "won": 37.23,
+        "ev": 18.03,
+        "wonSD": 37.52,
+        "wonNonSD": -0.29,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/18/2023 11:04:20 AM",
+        "hands": 1150,
+        "won": 16.76,
+        "ev": 9.37,
+        "wonSD": 26.98,
+        "wonNonSD": -10.22,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/20/2023 2:31:53 PM",
+        "hands": 723,
+        "won": 13.29,
+        "ev": 0.63,
+        "wonSD": 36.51,
+        "wonNonSD": -23.22,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/20/2023 5:25:49 PM",
+        "hands": 827,
+        "won": -39.34,
+        "ev": -20.52,
+        "wonSD": -32.51,
+        "wonNonSD": -6.83,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/21/2023 2:34:41 PM",
+        "hands": 634,
+        "won": 23.79,
+        "ev": 17.04,
+        "wonSD": 22.4,
+        "wonNonSD": 1.39,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/21/2023 5:29:41 PM",
+        "hands": 562,
+        "won": -17.18,
+        "ev": -6.85,
+        "wonSD": -15.27,
+        "wonNonSD": -1.91,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/22/2023 1:40:41 PM",
+        "hands": 1259,
+        "won": -1.47,
+        "ev": -1.76,
+        "wonSD": -1.99,
+        "wonNonSD": 0.52,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/23/2023 2:34:24 PM",
+        "hands": 1088,
+        "won": 30.72,
+        "ev": 22.84,
+        "wonSD": 26.52,
+        "wonNonSD": 4.2,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/26/2023 12:45:37 AM",
+        "hands": 1015,
+        "won": 0.51,
+        "ev": 26.4,
+        "wonSD": 10.08,
+        "wonNonSD": -9.57,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/27/2023 2:41:39 PM",
+        "hands": 1696,
+        "won": -28.46,
+        "ev": -12.56,
+        "wonSD": -17.37,
+        "wonNonSD": -11.09,
+        "stakes": "0.10"
+    },
+    {
+        "session": "11/28/2023 2:19:25 PM",
+        "hands": 1015,
+        "won": 17.75,
+        "ev": 10.74,
+        "wonSD": 28.52,
+        "wonNonSD": -10.77,
+        "stakes": "0.10"
+    },
+    {
+        "session": "12/1/2023 3:37:45 PM",
+        "hands": 953,
+        "won": 14.43,
+        "ev": 7.81,
+        "wonSD": 24.74,
+        "wonNonSD": -10.31,
+        "stakes": "0.10"
+    },
+    {
+        "session": "12/2/2023 4:13:48 PM",
+        "hands": 481,
+        "won": 12.6,
+        "ev": -0.41,
+        "wonSD": 27.64,
+        "wonNonSD": -15.04,
+        "stakes": "0.10"
+    },
+    {
+        "session": "12/2/2023 11:28:59 PM",
+        "hands": 1095,
+        "won": -20.79,
+        "ev": -20.07,
+        "wonSD": 1.34,
+        "wonNonSD": -22.13,
+        "stakes": "0.10"
+    },
+    {
+        "session": "12/4/2023 5:56:37 PM",
+        "hands": 1219,
+        "won": 21.71,
+        "ev": 0.33,
+        "wonSD": 31.91,
+        "wonNonSD": -10.2,
+        "stakes": "0.10"
+    },
+    {
+        "session": "12/5/2023 5:49:19 PM",
+        "hands": 1138,
+        "won": 40.72,
+        "ev": 37.56,
+        "wonSD": 42.65,
+        "wonNonSD": -1.93,
+        "stakes": "0.10"
+    },
+    {
+        "session": "12/6/2023 5:54:24 PM",
+        "hands": 1066,
+        "won": 28.82,
+        "ev": 19.23,
+        "wonSD": 59.68,
+        "wonNonSD": -30.86,
+        "stakes": "0.10"
+    },
+    {
+        "session": "12/7/2023 4:58:24 PM",
+        "hands": 573,
+        "won": 7.76,
+        "ev": 33.98,
+        "wonSD": 10.98,
+        "wonNonSD": -3.22,
+        "stakes": "0.10"
+    },
+    {
+        "session": "12/8/2023 10:13:58 AM",
+        "hands": 594,
+        "won": -32.37,
+        "ev": 0.14,
+        "wonSD": -43.2,
+        "wonNonSD": 10.83,
+        "stakes": "0.10"
+    },
+    {
+        "session": "12/9/2023 2:39:01 PM",
+        "hands": 1323,
+        "won": 16.55,
+        "ev": 3.44,
+        "wonSD": 36.53,
+        "wonNonSD": -19.98,
+        "stakes": "0.10"
+    },
+    {
+        "session": "12/12/2023 5:33:12 PM",
+        "hands": 738,
+        "won": 3.06,
+        "ev": 1.01,
+        "wonSD": 15.31,
+        "wonNonSD": -12.25,
+        "stakes": "0.10"
+    },
+    {
+        "session": "12/12/2023 9:50:37 PM",
+        "hands": 565,
+        "won": -7.78,
+        "ev": -12.42,
+        "wonSD": -5.04,
+        "wonNonSD": -2.74,
+        "stakes": "0.10"
+    },
+    {
+        "session": "12/13/2023 12:48:32 PM",
+        "hands": 230,
+        "won": 6.49,
+        "ev": -8,
+        "wonSD": 7.9,
+        "wonNonSD": -1.41,
+        "stakes": "0.10"
+    },
+    {
+        "session": "12/13/2023 5:26:33 PM",
+        "hands": 569,
+        "won": 17.9,
+        "ev": 16.5,
+        "wonSD": 17.11,
+        "wonNonSD": 0.79,
+        "stakes": "0.10"
+    },
+    {
+        "session": "12/14/2023 5:29:39 PM",
+        "hands": 549,
+        "won": -2.34,
+        "ev": 11.42,
+        "wonSD": -5.85,
+        "wonNonSD": 3.51,
+        "stakes": "0.10"
+    },
+    {
+        "session": "12/15/2023 5:54:45 PM",
+        "hands": 1075,
+        "won": 12.22,
+        "ev": 7.53,
+        "wonSD": 25.31,
+        "wonNonSD": -13.09,
+        "stakes": "0.10"
+    },
+    {
+        "session": "12/16/2023 1:33:25 PM",
+        "hands": 1260,
+        "won": 62.3,
+        "ev": 21.97,
+        "wonSD": 75.32,
+        "wonNonSD": -13.02,
+        "stakes": "0.10"
+    }
+]
